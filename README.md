@@ -23,3 +23,4 @@ The provided starter code in train.py provides a basic structure for loading dat
 ## Submission
 
 When you have completed the assignment, push your code to your Github repository. The Github Actions workflow will automatically build your Docker image, run your training script, and check if the assignment requirements have been met. Check the Github Actions tab for the results of these checks. Make sure that all checks are passing before you submit the assignment.
+
